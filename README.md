@@ -1,7 +1,13 @@
-<h1 align="center" style="font-size: 3em;">Hey, I'm Gabriel Ramos! 👋</h1>
+<h1 align="center">Hey, I'm Gabriel Ramos! 👋</h1>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,typescript,js,express,prisma,postgres,mongodb,php,docker,linux,vitest" height="40" alt="tech stack" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,azure,react,nextjs,typescript,nodejs,postgres,docker,prisma" 
+       height="40" alt="tech stack" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Developer+%40+PRODAM+São+Paulo;.NET+%7C+Azure+%7C+Generative+AI;Building+real+software+for+real+people" 
+       alt="Typing SVG" />
 </div>
 
 <picture>
