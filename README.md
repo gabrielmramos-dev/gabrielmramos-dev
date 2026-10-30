@@ -1,3 +1,4 @@
+
 <h1 align="center">Hey, I'm Gabriel Ramos! 👋</h1>
 
 <div align="center">
@@ -11,9 +12,19 @@
 <br/>
 
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/gabrielmramos-dev/gabrielmramos-dev/output/pacman-contribution-graph.svg"
-    width="100%"
-    alt="Pac-Man contribution graph"
-  />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/gabrielmramos-dev/gabrielmramos-dev/output/pacman-contribution-graph-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/gabrielmramos-dev/gabrielmramos-dev/output/pacman-contribution-graph.svg"
+    />
+    <img
+      alt="Pac-Man contribution graph"
+      src="https://raw.githubusercontent.com/gabrielmramos-dev/gabrielmramos-dev/output/pacman-contribution-graph.svg"
+      width="100%"
+    />
+  </picture>
 </p>
